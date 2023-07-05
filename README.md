@@ -1,3 +1,3 @@
 # test
-#Details
+Details
 Test for git practice
